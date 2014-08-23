@@ -21,6 +21,16 @@
 		9D1A7E4019A5F9B200175FA0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D1A7E2219A5F9B200175FA0 /* UIKit.framework */; };
 		9D1A7E4819A5F9B200175FA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4619A5F9B200175FA0 /* InfoPlist.strings */; };
 		9D1A7E4A19A5F9B200175FA0 /* TableViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */; };
+		9D1AE63B19A6DD1800F5C0FC /* myEmotionBox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63219A6DD1800F5C0FC /* myEmotionBox@2x.png */; };
+		9D1AE63C19A6DD1800F5C0FC /* myVCCheckIn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63319A6DD1800F5C0FC /* myVCCheckIn@2x.png */; };
+		9D1AE63D19A6DD1800F5C0FC /* myVCCollect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63419A6DD1800F5C0FC /* myVCCollect@2x.png */; };
+		9D1AE63E19A6DD1800F5C0FC /* myVCFeedBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63519A6DD1800F5C0FC /* myVCFeedBack@2x.png */; };
+		9D1AE63F19A6DD1800F5C0FC /* myVCInviting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63619A6DD1800F5C0FC /* myVCInviting@2x.png */; };
+		9D1AE64019A6DD1800F5C0FC /* myVCQR@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63719A6DD1800F5C0FC /* myVCQR@2x.png */; };
+		9D1AE64119A6DD1800F5C0FC /* myVCQRScanner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63819A6DD1800F5C0FC /* myVCQRScanner@2x.png */; };
+		9D1AE64219A6DD1800F5C0FC /* myVCSetting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63919A6DD1800F5C0FC /* myVCSetting@2x.png */; };
+		9D1AE64319A6DD1800F5C0FC /* myVCwallet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE63A19A6DD1800F5C0FC /* myVCwallet@2x.png */; };
+		9D1AE64519A6DEEB00F5C0FC /* me@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE64419A6DEEB00F5C0FC /* me@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,16 @@
 		9D1A7E4519A5F9B200175FA0 /* TableViewTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewTestTests-Info.plist"; sourceTree = "<group>"; };
 		9D1A7E4719A5F9B200175FA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewTestTests.m; sourceTree = "<group>"; };
+		9D1AE63219A6DD1800F5C0FC /* myEmotionBox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myEmotionBox@2x.png"; sourceTree = "<group>"; };
+		9D1AE63319A6DD1800F5C0FC /* myVCCheckIn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCCheckIn@2x.png"; sourceTree = "<group>"; };
+		9D1AE63419A6DD1800F5C0FC /* myVCCollect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCCollect@2x.png"; sourceTree = "<group>"; };
+		9D1AE63519A6DD1800F5C0FC /* myVCFeedBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCFeedBack@2x.png"; sourceTree = "<group>"; };
+		9D1AE63619A6DD1800F5C0FC /* myVCInviting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCInviting@2x.png"; sourceTree = "<group>"; };
+		9D1AE63719A6DD1800F5C0FC /* myVCQR@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCQR@2x.png"; sourceTree = "<group>"; };
+		9D1AE63819A6DD1800F5C0FC /* myVCQRScanner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCQRScanner@2x.png"; sourceTree = "<group>"; };
+		9D1AE63919A6DD1800F5C0FC /* myVCSetting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCSetting@2x.png"; sourceTree = "<group>"; };
+		9D1AE63A19A6DD1800F5C0FC /* myVCwallet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCwallet@2x.png"; sourceTree = "<group>"; };
+		9D1AE64419A6DEEB00F5C0FC /* me@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "me@2x.png"; path = "../../../../../Desktop/me@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +146,7 @@
 		9D1A7E2519A5F9B200175FA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9D1AE63119A6DD1800F5C0FC /* my_img */,
 				9D1A7E2619A5F9B200175FA0 /* TableViewTest-Info.plist */,
 				9D1A7E2719A5F9B200175FA0 /* InfoPlist.strings */,
 				9D1A7E2A19A5F9B200175FA0 /* main.m */,
@@ -150,6 +171,23 @@
 				9D1A7E4619A5F9B200175FA0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9D1AE63119A6DD1800F5C0FC /* my_img */ = {
+			isa = PBXGroup;
+			children = (
+				9D1AE64419A6DEEB00F5C0FC /* me@2x.png */,
+				9D1AE63219A6DD1800F5C0FC /* myEmotionBox@2x.png */,
+				9D1AE63319A6DD1800F5C0FC /* myVCCheckIn@2x.png */,
+				9D1AE63419A6DD1800F5C0FC /* myVCCollect@2x.png */,
+				9D1AE63519A6DD1800F5C0FC /* myVCFeedBack@2x.png */,
+				9D1AE63619A6DD1800F5C0FC /* myVCInviting@2x.png */,
+				9D1AE63719A6DD1800F5C0FC /* myVCQR@2x.png */,
+				9D1AE63819A6DD1800F5C0FC /* myVCQRScanner@2x.png */,
+				9D1AE63919A6DD1800F5C0FC /* myVCSetting@2x.png */,
+				9D1AE63A19A6DD1800F5C0FC /* myVCwallet@2x.png */,
+			);
+			path = my_img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +267,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D1AE63E19A6DD1800F5C0FC /* myVCFeedBack@2x.png in Resources */,
+				9D1AE64519A6DEEB00F5C0FC /* me@2x.png in Resources */,
 				9D1A7E3719A5F9B200175FA0 /* Images.xcassets in Resources */,
 				9D1A7E2919A5F9B200175FA0 /* InfoPlist.strings in Resources */,
+				9D1AE64119A6DD1800F5C0FC /* myVCQRScanner@2x.png in Resources */,
+				9D1AE63D19A6DD1800F5C0FC /* myVCCollect@2x.png in Resources */,
+				9D1AE64219A6DD1800F5C0FC /* myVCSetting@2x.png in Resources */,
+				9D1AE64319A6DD1800F5C0FC /* myVCwallet@2x.png in Resources */,
+				9D1AE63B19A6DD1800F5C0FC /* myEmotionBox@2x.png in Resources */,
 				9D1A7E3219A5F9B200175FA0 /* Main.storyboard in Resources */,
+				9D1AE64019A6DD1800F5C0FC /* myVCQR@2x.png in Resources */,
+				9D1AE63C19A6DD1800F5C0FC /* myVCCheckIn@2x.png in Resources */,
+				9D1AE63F19A6DD1800F5C0FC /* myVCInviting@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +505,7 @@
 				9D1A7E4F19A5F9B200175FA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D1A7E5019A5F9B200175FA0 /* Build configuration list for PBXNativeTarget "TableViewTestTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +514,7 @@
 				9D1A7E5219A5F9B200175FA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
