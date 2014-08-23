@@ -21,6 +21,17 @@
 		9D1A7E4019A5F9B200175FA0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D1A7E2219A5F9B200175FA0 /* UIKit.framework */; };
 		9D1A7E4819A5F9B200175FA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4619A5F9B200175FA0 /* InfoPlist.strings */; };
 		9D1A7E4A19A5F9B200175FA0 /* TableViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */; };
+		9D1AE64F19A88A9E00F5C0FC /* TDMyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1AE64E19A88A9E00F5C0FC /* TDMyModel.m */; };
+		9D1AE65A19A88D5D00F5C0FC /* myEmotionBox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */; };
+		9D1AE65B19A88D5D00F5C0FC /* myVCCheckIn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */; };
+		9D1AE65C19A88D5D00F5C0FC /* myVCCollect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */; };
+		9D1AE65D19A88D5D00F5C0FC /* myVCFeedBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */; };
+		9D1AE65E19A88D5D00F5C0FC /* myVCInviting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */; };
+		9D1AE65F19A88D5D00F5C0FC /* myVCQR@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */; };
+		9D1AE66019A88D5D00F5C0FC /* myVCQRScanner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */; };
+		9D1AE66119A88D5D00F5C0FC /* myVCSetting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */; };
+		9D1AE66219A88D5D00F5C0FC /* myVCwallet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */; };
+		9D1AE66519A8924B00F5C0FC /* TDMyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1AE66419A8924B00F5C0FC /* TDMyCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,19 @@
 		9D1A7E4519A5F9B200175FA0 /* TableViewTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewTestTests-Info.plist"; sourceTree = "<group>"; };
 		9D1A7E4719A5F9B200175FA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewTestTests.m; sourceTree = "<group>"; };
+		9D1AE64D19A88A9E00F5C0FC /* TDMyModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDMyModel.h; sourceTree = "<group>"; };
+		9D1AE64E19A88A9E00F5C0FC /* TDMyModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDMyModel.m; sourceTree = "<group>"; };
+		9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myEmotionBox@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myEmotionBox@2x.png"; sourceTree = "<group>"; };
+		9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCCheckIn@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCCheckIn@2x.png"; sourceTree = "<group>"; };
+		9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCCollect@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCCollect@2x.png"; sourceTree = "<group>"; };
+		9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCFeedBack@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCFeedBack@2x.png"; sourceTree = "<group>"; };
+		9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCInviting@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCInviting@2x.png"; sourceTree = "<group>"; };
+		9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCQR@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCQR@2x.png"; sourceTree = "<group>"; };
+		9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCQRScanner@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCQRScanner@2x.png"; sourceTree = "<group>"; };
+		9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCSetting@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCSetting@2x.png"; sourceTree = "<group>"; };
+		9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCwallet@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCwallet@2x.png"; sourceTree = "<group>"; };
+		9D1AE66319A8924B00F5C0FC /* TDMyCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDMyCell.h; sourceTree = "<group>"; };
+		9D1AE66419A8924B00F5C0FC /* TDMyCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDMyCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +136,14 @@
 		9D1A7E2419A5F9B200175FA0 /* TableViewTest */ = {
 			isa = PBXGroup;
 			children = (
+				9D1AE64C19A889EC00F5C0FC /* Model */,
 				9D1A7E2D19A5F9B200175FA0 /* TDAppDelegate.h */,
 				9D1A7E2E19A5F9B200175FA0 /* TDAppDelegate.m */,
 				9D1A7E3019A5F9B200175FA0 /* Main.storyboard */,
 				9D1A7E3319A5F9B200175FA0 /* TDViewController.h */,
 				9D1A7E3419A5F9B200175FA0 /* TDViewController.m */,
+				9D1AE66319A8924B00F5C0FC /* TDMyCell.h */,
+				9D1AE66419A8924B00F5C0FC /* TDMyCell.m */,
 				9D1A7E3619A5F9B200175FA0 /* Images.xcassets */,
 				9D1A7E2519A5F9B200175FA0 /* Supporting Files */,
 			);
@@ -126,6 +153,7 @@
 		9D1A7E2519A5F9B200175FA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9D1AE65019A88CF300F5C0FC /* image */,
 				9D1A7E2619A5F9B200175FA0 /* TableViewTest-Info.plist */,
 				9D1A7E2719A5F9B200175FA0 /* InfoPlist.strings */,
 				9D1A7E2A19A5F9B200175FA0 /* main.m */,
@@ -150,6 +178,31 @@
 				9D1A7E4619A5F9B200175FA0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9D1AE64C19A889EC00F5C0FC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9D1AE64D19A88A9E00F5C0FC /* TDMyModel.h */,
+				9D1AE64E19A88A9E00F5C0FC /* TDMyModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9D1AE65019A88CF300F5C0FC /* image */ = {
+			isa = PBXGroup;
+			children = (
+				9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */,
+				9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */,
+				9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */,
+				9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */,
+				9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */,
+				9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */,
+				9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */,
+				9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */,
+				9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +282,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D1AE65D19A88D5D00F5C0FC /* myVCFeedBack@2x.png in Resources */,
 				9D1A7E3719A5F9B200175FA0 /* Images.xcassets in Resources */,
 				9D1A7E2919A5F9B200175FA0 /* InfoPlist.strings in Resources */,
+				9D1AE66019A88D5D00F5C0FC /* myVCQRScanner@2x.png in Resources */,
+				9D1AE65C19A88D5D00F5C0FC /* myVCCollect@2x.png in Resources */,
+				9D1AE66119A88D5D00F5C0FC /* myVCSetting@2x.png in Resources */,
+				9D1AE66219A88D5D00F5C0FC /* myVCwallet@2x.png in Resources */,
+				9D1AE65A19A88D5D00F5C0FC /* myEmotionBox@2x.png in Resources */,
 				9D1A7E3219A5F9B200175FA0 /* Main.storyboard in Resources */,
+				9D1AE65F19A88D5D00F5C0FC /* myVCQR@2x.png in Resources */,
+				9D1AE65B19A88D5D00F5C0FC /* myVCCheckIn@2x.png in Resources */,
+				9D1AE65E19A88D5D00F5C0FC /* myVCInviting@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,8 +313,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D1A7E3519A5F9B200175FA0 /* TDViewController.m in Sources */,
+				9D1AE64F19A88A9E00F5C0FC /* TDMyModel.m in Sources */,
 				9D1A7E2F19A5F9B200175FA0 /* TDAppDelegate.m in Sources */,
 				9D1A7E2B19A5F9B200175FA0 /* main.m in Sources */,
+				9D1AE66519A8924B00F5C0FC /* TDMyCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +521,7 @@
 				9D1A7E4F19A5F9B200175FA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D1A7E5019A5F9B200175FA0 /* Build configuration list for PBXNativeTarget "TableViewTestTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +530,7 @@
 				9D1A7E5219A5F9B200175FA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
