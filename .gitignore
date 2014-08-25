@@ -1,5 +1,5 @@
 xcuserdata
-*.xcodeproj/
+xcshareddata
 !project.pbxproj
 *.xcuserstate
 *.xcbkptlist
