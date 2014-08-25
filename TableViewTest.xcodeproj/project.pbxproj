@@ -22,16 +22,16 @@
 		9D1A7E4819A5F9B200175FA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4619A5F9B200175FA0 /* InfoPlist.strings */; };
 		9D1A7E4A19A5F9B200175FA0 /* TableViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */; };
 		9D1AE64F19A88A9E00F5C0FC /* TDMyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1AE64E19A88A9E00F5C0FC /* TDMyModel.m */; };
-		9D1AE65A19A88D5D00F5C0FC /* myEmotionBox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */; };
-		9D1AE65B19A88D5D00F5C0FC /* myVCCheckIn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */; };
-		9D1AE65C19A88D5D00F5C0FC /* myVCCollect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */; };
-		9D1AE65D19A88D5D00F5C0FC /* myVCFeedBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */; };
-		9D1AE65E19A88D5D00F5C0FC /* myVCInviting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */; };
-		9D1AE65F19A88D5D00F5C0FC /* myVCQR@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */; };
-		9D1AE66019A88D5D00F5C0FC /* myVCQRScanner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */; };
-		9D1AE66119A88D5D00F5C0FC /* myVCSetting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */; };
-		9D1AE66219A88D5D00F5C0FC /* myVCwallet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */; };
 		9D1AE66519A8924B00F5C0FC /* TDMyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D1AE66419A8924B00F5C0FC /* TDMyCell.m */; };
+		9D5CD7E919AAD846004EF710 /* myEmotionBox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E019AAD846004EF710 /* myEmotionBox@2x.png */; };
+		9D5CD7EA19AAD846004EF710 /* myVCCheckIn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E119AAD846004EF710 /* myVCCheckIn@2x.png */; };
+		9D5CD7EB19AAD846004EF710 /* myVCCollect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E219AAD846004EF710 /* myVCCollect@2x.png */; };
+		9D5CD7EC19AAD846004EF710 /* myVCFeedBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E319AAD846004EF710 /* myVCFeedBack@2x.png */; };
+		9D5CD7ED19AAD846004EF710 /* myVCInviting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E419AAD846004EF710 /* myVCInviting@2x.png */; };
+		9D5CD7EE19AAD846004EF710 /* myVCQR@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E519AAD846004EF710 /* myVCQR@2x.png */; };
+		9D5CD7EF19AAD846004EF710 /* myVCQRScanner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E619AAD846004EF710 /* myVCQRScanner@2x.png */; };
+		9D5CD7F019AAD846004EF710 /* myVCSetting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E719AAD846004EF710 /* myVCSetting@2x.png */; };
+		9D5CD7F119AAD846004EF710 /* myVCwallet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5CD7E819AAD846004EF710 /* myVCwallet@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,17 +66,17 @@
 		9D1A7E4919A5F9B200175FA0 /* TableViewTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewTestTests.m; sourceTree = "<group>"; };
 		9D1AE64D19A88A9E00F5C0FC /* TDMyModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDMyModel.h; sourceTree = "<group>"; };
 		9D1AE64E19A88A9E00F5C0FC /* TDMyModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDMyModel.m; sourceTree = "<group>"; };
-		9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myEmotionBox@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myEmotionBox@2x.png"; sourceTree = "<group>"; };
-		9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCCheckIn@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCCheckIn@2x.png"; sourceTree = "<group>"; };
-		9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCCollect@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCCollect@2x.png"; sourceTree = "<group>"; };
-		9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCFeedBack@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCFeedBack@2x.png"; sourceTree = "<group>"; };
-		9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCInviting@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCInviting@2x.png"; sourceTree = "<group>"; };
-		9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCQR@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCQR@2x.png"; sourceTree = "<group>"; };
-		9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCQRScanner@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCQRScanner@2x.png"; sourceTree = "<group>"; };
-		9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCSetting@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCSetting@2x.png"; sourceTree = "<group>"; };
-		9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "myVCwallet@2x.png"; path = "../../../../../workspace/ilaiwang/LaiwangV3/Laiwang/Images/my_img/myVCwallet@2x.png"; sourceTree = "<group>"; };
 		9D1AE66319A8924B00F5C0FC /* TDMyCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDMyCell.h; sourceTree = "<group>"; };
 		9D1AE66419A8924B00F5C0FC /* TDMyCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDMyCell.m; sourceTree = "<group>"; };
+		9D5CD7E019AAD846004EF710 /* myEmotionBox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myEmotionBox@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E119AAD846004EF710 /* myVCCheckIn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCCheckIn@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E219AAD846004EF710 /* myVCCollect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCCollect@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E319AAD846004EF710 /* myVCFeedBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCFeedBack@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E419AAD846004EF710 /* myVCInviting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCInviting@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E519AAD846004EF710 /* myVCQR@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCQR@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E619AAD846004EF710 /* myVCQRScanner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCQRScanner@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E719AAD846004EF710 /* myVCSetting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCSetting@2x.png"; sourceTree = "<group>"; };
+		9D5CD7E819AAD846004EF710 /* myVCwallet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myVCwallet@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,15 +192,15 @@
 		9D1AE65019A88CF300F5C0FC /* image */ = {
 			isa = PBXGroup;
 			children = (
-				9D1AE65119A88D5D00F5C0FC /* myEmotionBox@2x.png */,
-				9D1AE65219A88D5D00F5C0FC /* myVCCheckIn@2x.png */,
-				9D1AE65319A88D5D00F5C0FC /* myVCCollect@2x.png */,
-				9D1AE65419A88D5D00F5C0FC /* myVCFeedBack@2x.png */,
-				9D1AE65519A88D5D00F5C0FC /* myVCInviting@2x.png */,
-				9D1AE65619A88D5D00F5C0FC /* myVCQR@2x.png */,
-				9D1AE65719A88D5D00F5C0FC /* myVCQRScanner@2x.png */,
-				9D1AE65819A88D5D00F5C0FC /* myVCSetting@2x.png */,
-				9D1AE65919A88D5D00F5C0FC /* myVCwallet@2x.png */,
+				9D5CD7E019AAD846004EF710 /* myEmotionBox@2x.png */,
+				9D5CD7E119AAD846004EF710 /* myVCCheckIn@2x.png */,
+				9D5CD7E219AAD846004EF710 /* myVCCollect@2x.png */,
+				9D5CD7E319AAD846004EF710 /* myVCFeedBack@2x.png */,
+				9D5CD7E419AAD846004EF710 /* myVCInviting@2x.png */,
+				9D5CD7E519AAD846004EF710 /* myVCQR@2x.png */,
+				9D5CD7E619AAD846004EF710 /* myVCQRScanner@2x.png */,
+				9D5CD7E719AAD846004EF710 /* myVCSetting@2x.png */,
+				9D5CD7E819AAD846004EF710 /* myVCwallet@2x.png */,
 			);
 			path = image;
 			sourceTree = "<group>";
@@ -282,18 +282,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D1AE65D19A88D5D00F5C0FC /* myVCFeedBack@2x.png in Resources */,
+				9D5CD7EC19AAD846004EF710 /* myVCFeedBack@2x.png in Resources */,
 				9D1A7E3719A5F9B200175FA0 /* Images.xcassets in Resources */,
 				9D1A7E2919A5F9B200175FA0 /* InfoPlist.strings in Resources */,
-				9D1AE66019A88D5D00F5C0FC /* myVCQRScanner@2x.png in Resources */,
-				9D1AE65C19A88D5D00F5C0FC /* myVCCollect@2x.png in Resources */,
-				9D1AE66119A88D5D00F5C0FC /* myVCSetting@2x.png in Resources */,
-				9D1AE66219A88D5D00F5C0FC /* myVCwallet@2x.png in Resources */,
-				9D1AE65A19A88D5D00F5C0FC /* myEmotionBox@2x.png in Resources */,
+				9D5CD7EF19AAD846004EF710 /* myVCQRScanner@2x.png in Resources */,
+				9D5CD7EB19AAD846004EF710 /* myVCCollect@2x.png in Resources */,
+				9D5CD7F019AAD846004EF710 /* myVCSetting@2x.png in Resources */,
+				9D5CD7F119AAD846004EF710 /* myVCwallet@2x.png in Resources */,
+				9D5CD7E919AAD846004EF710 /* myEmotionBox@2x.png in Resources */,
 				9D1A7E3219A5F9B200175FA0 /* Main.storyboard in Resources */,
-				9D1AE65F19A88D5D00F5C0FC /* myVCQR@2x.png in Resources */,
-				9D1AE65B19A88D5D00F5C0FC /* myVCCheckIn@2x.png in Resources */,
-				9D1AE65E19A88D5D00F5C0FC /* myVCInviting@2x.png in Resources */,
+				9D5CD7EE19AAD846004EF710 /* myVCQR@2x.png in Resources */,
+				9D5CD7EA19AAD846004EF710 /* myVCCheckIn@2x.png in Resources */,
+				9D5CD7ED19AAD846004EF710 /* myVCInviting@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
